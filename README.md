@@ -24,7 +24,7 @@ Commands:
 
 **.escortme** - bot will remove you after next spin(still not stable)
 
-**.gif [tag]** - comming soon
+**.gif [tag]** - get gif from tag
 
 **.commands** - get a link to this page :)
 
