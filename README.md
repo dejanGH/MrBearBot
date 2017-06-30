@@ -26,6 +26,8 @@ Commands:
 
 **.gif [tag]** - get gif from tag
 
+**.swanson** - get Ron Swanson Quotes 
+
 **.commands** - get a link to this page :)
 
 Talk to bot by putting **@Mr. Bear Bot** in chat message
