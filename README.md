@@ -28,6 +28,8 @@ Commands:
 
 **.swanson** - get Ron Swanson Quotes 
 
+**.cats** - get image or gif of a cat
+
 **.commands** - get a link to this page :)
 
 Talk to bot by putting **@Mr. Bear Bot** in chat message
